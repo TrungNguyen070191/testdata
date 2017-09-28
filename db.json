@@ -1,0 +1,30 @@
+[
+	{
+		"id": 1,
+		"name": "Assange",
+		"age": 25,
+		"contact": "",
+		"company": "DXC"
+	},
+	{
+		"id": 2,
+		"name": "John",
+		"age": 38,
+		"contact": "",
+		"company": "Bosch"
+	},
+	{
+		"id": 3,
+		"name": "Linda",
+		"age": 18,
+		"contact": "",
+		"company": ""
+	},
+	{
+		"id": 4,
+		"name": "Terry",
+		"age": 19,
+		"contact": "",
+		"company": ""
+	},
+]
